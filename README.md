@@ -30,4 +30,4 @@ The robot was simulated in **Gazebo** using **TurtleBot3**, and follows basic re
    source install/setup.bash
 3. **Run the wander node** (in a separate terminal after launching simulation):
   ```bash
-  ros2 run wanderbot wander_node
+     ros2 run wanderbot wander_node
