@@ -1,0 +1,19 @@
+running egg_info
+writing ../../build/wanderbot/wanderbot.egg-info/PKG-INFO
+writing dependency_links to ../../build/wanderbot/wanderbot.egg-info/dependency_links.txt
+writing entry points to ../../build/wanderbot/wanderbot.egg-info/entry_points.txt
+writing requirements to ../../build/wanderbot/wanderbot.egg-info/requires.txt
+writing top-level names to ../../build/wanderbot/wanderbot.egg-info/top_level.txt
+reading manifest file '../../build/wanderbot/wanderbot.egg-info/SOURCES.txt'
+writing manifest file '../../build/wanderbot/wanderbot.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/elmarlinux/wanderbot_ws/install/wanderbot/lib/python3.10/site-packages/wanderbot-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/wanderbot/wanderbot.egg-info to /home/elmarlinux/wanderbot_ws/install/wanderbot/lib/python3.10/site-packages/wanderbot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing wander_node script to /home/elmarlinux/wanderbot_ws/install/wanderbot/lib/wanderbot
+writing list of installed files to '/home/elmarlinux/wanderbot_ws/build/wanderbot/install.log'

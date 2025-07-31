@@ -1,0 +1,24 @@
+[1.003s] Invoking command in '/home/elmarlinux/wanderbot_ws/src/wanderbot': PYTHONPATH=/home/elmarlinux/wanderbot_ws/build/wanderbot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/elmarlinux/wanderbot_ws/install/wanderbot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/wanderbot build --build-base /home/elmarlinux/wanderbot_ws/build/wanderbot/build install --record /home/elmarlinux/wanderbot_ws/build/wanderbot/install.log --single-version-externally-managed install_data
+[1.406s] running egg_info
+[1.407s] writing ../../build/wanderbot/wanderbot.egg-info/PKG-INFO
+[1.408s] writing dependency_links to ../../build/wanderbot/wanderbot.egg-info/dependency_links.txt
+[1.408s] writing entry points to ../../build/wanderbot/wanderbot.egg-info/entry_points.txt
+[1.408s] writing requirements to ../../build/wanderbot/wanderbot.egg-info/requires.txt
+[1.409s] writing top-level names to ../../build/wanderbot/wanderbot.egg-info/top_level.txt
+[1.412s] reading manifest file '../../build/wanderbot/wanderbot.egg-info/SOURCES.txt'
+[1.414s] writing manifest file '../../build/wanderbot/wanderbot.egg-info/SOURCES.txt'
+[1.414s] running build
+[1.414s] running build_py
+[1.415s] copying wanderbot/wander.py -> /home/elmarlinux/wanderbot_ws/build/wanderbot/build/lib/wanderbot
+[1.415s] running install
+[1.416s] running install_lib
+[1.417s] copying /home/elmarlinux/wanderbot_ws/build/wanderbot/build/lib/wanderbot/wander.py -> /home/elmarlinux/wanderbot_ws/install/wanderbot/lib/python3.10/site-packages/wanderbot
+[1.418s] byte-compiling /home/elmarlinux/wanderbot_ws/install/wanderbot/lib/python3.10/site-packages/wanderbot/wander.py to wander.cpython-310.pyc
+[1.420s] running install_data
+[1.420s] running install_egg_info
+[1.423s] removing '/home/elmarlinux/wanderbot_ws/install/wanderbot/lib/python3.10/site-packages/wanderbot-0.0.0-py3.10.egg-info' (and everything under it)
+[1.424s] Copying ../../build/wanderbot/wanderbot.egg-info to /home/elmarlinux/wanderbot_ws/install/wanderbot/lib/python3.10/site-packages/wanderbot-0.0.0-py3.10.egg-info
+[1.425s] running install_scripts
+[1.455s] Installing wander_node script to /home/elmarlinux/wanderbot_ws/install/wanderbot/lib/wanderbot
+[1.455s] writing list of installed files to '/home/elmarlinux/wanderbot_ws/build/wanderbot/install.log'
+[1.489s] Invoked command in '/home/elmarlinux/wanderbot_ws/src/wanderbot' returned '0': PYTHONPATH=/home/elmarlinux/wanderbot_ws/build/wanderbot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/elmarlinux/wanderbot_ws/install/wanderbot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/wanderbot build --build-base /home/elmarlinux/wanderbot_ws/build/wanderbot/build install --record /home/elmarlinux/wanderbot_ws/build/wanderbot/install.log --single-version-externally-managed install_data

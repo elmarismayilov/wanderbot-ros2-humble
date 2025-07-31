@@ -1,0 +1,3 @@
+[console_scripts]
+wander_node = wanderbot.wander:main
+

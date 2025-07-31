@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/wanderbot/wanderbot.egg-info
+writing ../../build/wanderbot/wanderbot.egg-info/PKG-INFO
+writing dependency_links to ../../build/wanderbot/wanderbot.egg-info/dependency_links.txt
+writing entry points to ../../build/wanderbot/wanderbot.egg-info/entry_points.txt
+writing requirements to ../../build/wanderbot/wanderbot.egg-info/requires.txt
+writing top-level names to ../../build/wanderbot/wanderbot.egg-info/top_level.txt
+writing manifest file '../../build/wanderbot/wanderbot.egg-info/SOURCES.txt'
+reading manifest file '../../build/wanderbot/wanderbot.egg-info/SOURCES.txt'
+writing manifest file '../../build/wanderbot/wanderbot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/elmarlinux/wanderbot_ws/build/wanderbot/build
+creating /home/elmarlinux/wanderbot_ws/build/wanderbot/build/lib
+creating /home/elmarlinux/wanderbot_ws/build/wanderbot/build/lib/wanderbot
+copying wanderbot/wander.py -> /home/elmarlinux/wanderbot_ws/build/wanderbot/build/lib/wanderbot
+copying wanderbot/__init__.py -> /home/elmarlinux/wanderbot_ws/build/wanderbot/build/lib/wanderbot
+running install
+running install_lib
+creating /home/elmarlinux/wanderbot_ws/install/wanderbot/lib/python3.10/site-packages/wanderbot
+copying /home/elmarlinux/wanderbot_ws/build/wanderbot/build/lib/wanderbot/wander.py -> /home/elmarlinux/wanderbot_ws/install/wanderbot/lib/python3.10/site-packages/wanderbot
+copying /home/elmarlinux/wanderbot_ws/build/wanderbot/build/lib/wanderbot/__init__.py -> /home/elmarlinux/wanderbot_ws/install/wanderbot/lib/python3.10/site-packages/wanderbot
+byte-compiling /home/elmarlinux/wanderbot_ws/install/wanderbot/lib/python3.10/site-packages/wanderbot/wander.py to wander.cpython-310.pyc
+byte-compiling /home/elmarlinux/wanderbot_ws/install/wanderbot/lib/python3.10/site-packages/wanderbot/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/elmarlinux/wanderbot_ws/install/wanderbot/share/ament_index
+creating /home/elmarlinux/wanderbot_ws/install/wanderbot/share/ament_index/resource_index
+creating /home/elmarlinux/wanderbot_ws/install/wanderbot/share/ament_index/resource_index/packages
+copying resource/wanderbot -> /home/elmarlinux/wanderbot_ws/install/wanderbot/share/ament_index/resource_index/packages
+copying package.xml -> /home/elmarlinux/wanderbot_ws/install/wanderbot/share/wanderbot
+running install_egg_info
+Copying ../../build/wanderbot/wanderbot.egg-info to /home/elmarlinux/wanderbot_ws/install/wanderbot/lib/python3.10/site-packages/wanderbot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing wander_node script to /home/elmarlinux/wanderbot_ws/install/wanderbot/lib/wanderbot
+writing list of installed files to '/home/elmarlinux/wanderbot_ws/build/wanderbot/install.log'
