@@ -28,6 +28,6 @@ The robot was simulated in **Gazebo** using **TurtleBot3**, and follows basic re
    ```bash
    colcon build --packages-select your_package_name
    source install/setup.bash
-3. Run the wander node (in a separate terminal after launching simulation):
+3. **Run the wander node** (in a separate terminal after launching simulation):
   ```bash
   ros2 run wanderbot wander_node
